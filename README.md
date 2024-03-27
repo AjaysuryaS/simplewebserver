@@ -788,7 +788,10 @@ def run(server_class=HTTPServer, handler_class=SimpleHTTPRequestHandler, port=80
 
 
 ## OUTPUT:
-![image](https://github.com/AjaysuryaS/simplewebserver/assets/114158396/e5ffbf5b-002c-4310-a67d-58fb6a86b7e4)
+![image](https://github.com/AjaysuryaS/simplewebserver/assets/114158396/00ac2283-6cec-414f-a0e2-b1dc733ed452)
+![image](https://github.com/AjaysuryaS/simplewebserver/assets/114158396/45cec423-9378-481f-9ee1-7c123ac7dd15)
+![image](https://github.com/AjaysuryaS/simplewebserver/assets/114158396/28abc04a-62fd-4516-a7dd-fe0dc31f854f)
+
 
 
 ## RESULT:
