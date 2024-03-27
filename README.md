@@ -788,7 +788,8 @@ def run(server_class=HTTPServer, handler_class=SimpleHTTPRequestHandler, port=80
 
 
 ## OUTPUT:
-![alt text](image.png)
+![image](https://github.com/AjaysuryaS/simplewebserver/assets/114158396/e5ffbf5b-002c-4310-a67d-58fb6a86b7e4)
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
